@@ -9,6 +9,20 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "forget.work",
+          "icon": "book-open-cover",
+          "href": "https://forget.work"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://forget.work/blog"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Docs",
@@ -17,7 +31,7 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "getting-started/overview",
+              "guides/overview",
               "getting-started/account",
               "getting-started/first-steps"
             ]
@@ -25,8 +39,6 @@
           {
             "group": "Guides",
             "pages": [
-              "guides/overview",
-              "guides/basics",
               "guides/quick-add",
               "guides/list",
               "guides/timer",
@@ -48,21 +60,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "forget.work",
-          "href": "https://forget.work",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://forget.work/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
