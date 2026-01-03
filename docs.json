@@ -25,8 +25,23 @@
           {
             "group": "Guides",
             "pages": [
+              "guides/overview",
               "guides/basics",
-              "guides/tips",
+              "guides/quick-add",
+              "guides/list",
+              "guides/timer",
+              "guides/focus-time",
+              "guides/breaks",
+              "guides/daily-goal",
+              "guides/last-time",
+              "guides/wrap-day",
+              "guides/dark-mode",
+              "guides/tips"
+            ]
+          },
+          {
+            "group": "Help",
+            "pages": [
               "help/troubleshooting"
             ]
           }
