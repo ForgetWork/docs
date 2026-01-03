@@ -31,9 +31,9 @@
             "group": "Getting started",
             "pages": [
               "index",
+              "getting-started/first-steps",
               "guides/overview",
-              "getting-started/account",
-              "getting-started/first-steps"
+              "getting-started/account"
             ]
           },
           {
